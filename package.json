@@ -1,0 +1,15 @@
+{
+  "name": "hypertheme",
+  "version": "0.1.0",
+  "description": "A theme manager for HyperTerm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "zpao/hypertheme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zpao/hypertheme/issues"
+  },
+  "homepage": "https://github.com/zpao/hypertheme#readme"
+}
